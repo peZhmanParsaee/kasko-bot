@@ -1,0 +1,13 @@
+{
+  "name": "kasko-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "request": "^2.85.0"
+  }
+}
